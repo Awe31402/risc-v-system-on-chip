@@ -4,6 +4,8 @@
 
 **167 篇，一小節一篇**，涵蓋正文 23 章、附錄 A/B/C/D/F，以及書末的指令集參考卡。
 
+📖 **原書 PDF**：[Google Drive](https://drive.google.com/file/d/1wn-wSSfJ6YGXWHLN30J2oSlzc8cV9ceb/view?usp=drive_link)（不放進 repo，筆記裡的頁碼都對應這個檔）
+
 ---
 
 ## 怎麼讀
@@ -324,6 +326,9 @@
 
 ## 關於這本書
 
-- 作者：David Harris、James Stine、Rose Thompson、Sarah Harris
+- 作者：David Harris、James Stine、Rose Thompson、Sarah Harris（Morgan Kaufmann，1115 頁）
 - 主角是 **CORE-V Wally**（`cvw`）——OpenHW Foundation 的開源可設定 RISC-V 核心，從 RV32E 微控制器到能開 Linux 的 RV64GC 都涵蓋
-- 原始碼：<https://github.com/openhwgroup/cvw>
+- Wally 原始碼：<https://github.com/openhwgroup/cvw>
+- 原書 PDF：[Google Drive](https://drive.google.com/file/d/1wn-wSSfJ6YGXWHLN30J2oSlzc8cV9ceb/view?usp=drive_link)
+
+> PDF 有版權，不放進 repo。要對照原文請自行從上面的連結取得。
